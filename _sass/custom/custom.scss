@@ -1,0 +1,32 @@
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  letter-spacing: -0.015em;
+}
+
+.main-content h1 {
+  border-bottom: 2px solid #d8e2ec;
+  padding-bottom: 0.35rem;
+}
+
+.label-difficulty,
+.label-time {
+  display: inline-block;
+  margin-right: 0.35rem;
+  margin-bottom: 0.5rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: #eaf1f8;
+  color: #173b5e;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+code {
+  border-radius: 4px;
+}
