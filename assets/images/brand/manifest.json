@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "created": "2026-07-17",
+  "brand": "The All of Us Researcher Field Guide",
+  "colors": {
+    "navy": "#183A5A",
+    "blue": "#2F6FA5",
+    "light_blue": "#EAF3FA",
+    "gold": "#C7A44D",
+    "white": "#FFFFFF",
+    "text": "#2B2B2B"
+  },
+  "logo_files": [
+    "favicon.svg",
+    "logo-horizontal.svg",
+    "logo-mark-white.svg",
+    "logo-mark.svg",
+    "logo-primary.svg",
+    "wordmark.svg"
+  ],
+  "icon_files": [
+    "analysis.svg",
+    "cohort.svg",
+    "data.svg",
+    "help.svg",
+    "phenotype.svg",
+    "pipeline.svg",
+    "reference.svg",
+    "validation.svg",
+    "workflow.svg",
+    "workspace.svg"
+  ]
+}

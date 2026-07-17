@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+<title>Data</title>
+
+<g fill="none" stroke="#183A5A" stroke-width="2.5">
+<ellipse cx="32" cy="16" rx="16" ry="7"/>
+<path d="M16 16 V32 C16 36 23 39 32 39 C41 39 48 36 48 32 V16"/>
+<path d="M16 32 V48 C16 52 23 55 32 55 C41 55 48 52 48 48 V32"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+<title>Phenotype</title>
+
+<g fill="none" stroke="#183A5A" stroke-width="2.5" stroke-linejoin="round">
+<path d="M14 12 H42 L52 22 V52 H14 Z"/><path d="M42 12 V22 H52"/>
+<path d="M22 30 H44 M22 38 H40"/>
+</g>
+<circle cx="22" cy="46" r="4" fill="#C7A44D"/>
+</svg>

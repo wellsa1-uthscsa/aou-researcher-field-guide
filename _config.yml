@@ -1,9 +1,12 @@
 title: The All of Us Researcher Field Guide
-description: Practical methods for reproducible EHR, genomic, and wearable data analysis in the All of Us Researcher Workbench.
+description: Practical methods for reproducible biomedical research in the All of Us Researcher Workbench.
 theme: just-the-docs
 
 url: "https://wellsa1-uthscsa.github.io"
 baseurl: "/aou-researcher-field-guide"
+
+logo: "/assets/images/brand/logo/logo-horizontal.svg"
+favicon_ico: "/assets/images/brand/logo/favicon-32.png"
 
 color_scheme: aou_navy
 search_enabled: true
@@ -49,3 +52,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - planning
+  - branding

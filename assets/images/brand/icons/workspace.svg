@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+<title>Workspace</title>
+
+<rect x="10" y="14" width="44" height="36" rx="5" fill="none" stroke="#183A5A" stroke-width="2.5"/>
+<path d="M10 23 H54" stroke="#183A5A" stroke-width="2.5"/>
+<circle cx="17" cy="19" r="1.8" fill="#183A5A"/><circle cx="23" cy="19" r="1.8" fill="#183A5A"/>
+</svg>

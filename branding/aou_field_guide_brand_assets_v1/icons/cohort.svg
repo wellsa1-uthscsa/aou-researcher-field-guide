@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+<title>Cohort</title>
+
+<g fill="#EAF3FA" stroke="#183A5A" stroke-width="2">
+<circle cx="18" cy="18" r="6"/><circle cx="32" cy="18" r="6"/><circle cx="46" cy="18" r="6"/>
+<circle cx="18" cy="34" r="6"/><circle cx="32" cy="34" r="6"/><circle cx="46" cy="34" r="6"/>
+<circle cx="18" cy="50" r="6"/><circle cx="32" cy="50" r="6"/><circle cx="46" cy="50" r="6"/>
+</g>
+</svg>

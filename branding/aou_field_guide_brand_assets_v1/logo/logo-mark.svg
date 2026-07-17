@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="160" viewBox="0 0 120 160" role="img">
+<title>All of Us Researcher Field Guide logo mark</title>
+
+<g fill="none" stroke="#183A5A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M60 28 V58 V92" />
+  <path d="M60 92 L26 130" />
+  <path d="M60 92 L94 130" />
+</g>
+<g fill="#183A5A">
+  <circle cx="60" cy="28" r="10"/>
+  <circle cx="60" cy="58" r="8"/>
+  <circle cx="60" cy="92" r="11"/>
+  <circle cx="26" cy="130" r="10"/>
+  <circle cx="94" cy="130" r="10"/>
+</g>
+
+</svg>

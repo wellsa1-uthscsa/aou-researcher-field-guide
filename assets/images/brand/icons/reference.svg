@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+<title>Reference</title>
+
+<path d="M11 14 Q22 10 31 16 V52 Q22 46 11 50 Z" fill="#EAF3FA" stroke="#183A5A" stroke-width="2.5"/>
+<path d="M53 14 Q42 10 33 16 V52 Q42 46 53 50 Z" fill="#EAF3FA" stroke="#183A5A" stroke-width="2.5"/>
+<path d="M32 16 V52" stroke="#183A5A" stroke-width="2.5"/>
+</svg>
